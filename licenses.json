@@ -1,0 +1,31 @@
+{
+  "licenses": {
+    "MJM-2025-A1B2C3D4E5F6": {
+      "active": true,
+      "issued": "2025-11-14",
+      "email": "customer1@example.com"
+    },
+    "MJM-2025-G7H8I9J0K1L2": {
+      "active": true,
+      "issued": "2025-11-13",
+      "email": "customer2@example.com"
+    },
+    "MJM-2025-M3N4O5P6Q7R8": {
+      "active": false,
+      "issued": "2025-11-10",
+      "email": "customer3@example.com",
+      "note": "환불 처리됨 - 2025-11-12"
+    },
+    "MJM-2025-S9T0U1V2W3X4": {
+      "active": true,
+      "issued": "2025-11-09",
+      "email": "customer4@example.com"
+    },
+    "MJM-2025-Y5Z6A7B8C9D0": {
+      "active": false,
+      "issued": "2025-11-08",
+      "email": "customer5@example.com",
+      "note": "환불 처리됨 - 2025-11-11"
+    }
+  }
+}
